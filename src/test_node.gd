@@ -15,7 +15,7 @@ class logger:
 
 
 export(Array) var animations := [0, 0, 0, 0, 0, 0, 0, 0]
-onready var deg_step = 360 / len(animations)
+onready var deg_step = 360 / len(animations)  # 45
 
 var vectors = [
 	Vector2.RIGHT, 	Vector2.ONE, 
