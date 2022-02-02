@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="gd-test-vector-math"
+config/name="vector-mapping"
 run/main_scene="res://scenes/main.tscn"
 config/icon="res://icon.png"
 
